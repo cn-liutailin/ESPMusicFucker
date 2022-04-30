@@ -1,14 +1,3 @@
----
-title: 如何在学校安全地对爱听歌的同学实施制裁
-tags:
-  - ESP8266
-  - Arduino
-categories: 教程
-abbrlink: 7f5416f8
-date: 2022-04-04 00:00:00
-updated: 2022-04-04 00:00:00
----
-
 > 你需要 [ESPMusicFucker](https://github.com/cn-liutailin/ESPMusicFucker) ！
 >
 
